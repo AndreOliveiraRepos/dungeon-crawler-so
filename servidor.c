@@ -105,4 +105,4 @@ int main() {
    close(s_fifo_fd);
    unlink(SERVER_FIFO);
    return 0;
-} /* fim da fun��o main do servidor */
+} /* fim da funçao main do servidor */
